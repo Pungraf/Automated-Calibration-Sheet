@@ -1,4 +1,6 @@
 # Automated-Calibration-Sheet
+For use in Google App Script.
+
 Script automating the work of operators calibrating machines
 
 AutomatedCalibrationSheet.js
